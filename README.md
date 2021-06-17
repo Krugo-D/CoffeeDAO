@@ -1,2 +1,2 @@
 # CoffeeDAO
-Don't vote, build.
+Reject politics, return to code
